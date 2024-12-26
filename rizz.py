@@ -1,0 +1,9 @@
+my_set={0,1,2,3,4,2,3}
+print(my_set)
+he_set={7,8,9,10,9}
+my_set.update(he_set)
+print(my_set)
+my_set.pop
+print(my_set,'\n')
+my_set.pop
+print(my_set,'\n')
